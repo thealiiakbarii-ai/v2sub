@@ -1,0 +1,6 @@
+vless://d0b0a235-6578-400c-83f6-a609dcceced4@45.85.118.155:443?encryption=none&security=tls&sni=i.segarox.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=i.segarox.workers.dev&path=%2F#%E2%9C%85%20SeGaRo
+vless://d0b0a235-6578-400c-83f6-a609dcceced4@45.85.118.88:443?encryption=none&security=tls&sni=i.segarox.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=i.segarox.workers.dev&path=%2F#%E2%9C%85%20SeGaRo
+vless://d0b0a235-6578-400c-83f6-a609dcceced4@45.67.215.88:443?encryption=none&security=tls&sni=i.segarox.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=i.segarox.workers.dev&path=%2F#%E2%9C%85%20SeGaRo
+vless://d0b0a235-6578-400c-83f6-a609dcceced4@45.85.119.251:443?encryption=none&security=tls&sni=i.segarox.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=i.segarox.workers.dev&path=%2F#%E2%9C%85%20SeGaRo
+vless://d0b0a235-6578-400c-83f6-a609dcceced4@45.85.119.248:443?encryption=none&security=tls&sni=i.segarox.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=i.segarox.workers.dev&path=%2F#%E2%9C%85%20SeGaRo
+vless://d0b0a235-6578-400c-83f6-a609dcceced4@45.67.215.89:443?encryption=none&security=tls&sni=i.segarox.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=i.segarox.workers.dev&path=%2F#%E2%9C%85%20SeGaRo
